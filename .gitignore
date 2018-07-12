@@ -1,3 +1,6 @@
 *.txt
 __pycache__/
 mainwindow.ui
+dist/
+build/
+main.spec
