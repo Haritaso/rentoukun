@@ -9,7 +9,7 @@ QtPy5を使ってお手軽にGUI操作でmastodonに連投を行えるツール�
 
 ## Usage
 
-QtPy５をインストールしてmain.py起動で動くと思います。
+QtPy5をインストールしてmain.py起動で動くと思います。
 
 ## Author
 
